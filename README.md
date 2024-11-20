@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,mysql,laravel,mongodb,windows,linux,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,mysql,laravel,mongodb,windows,linux,docker,csharp)](https://skillicons.dev)
 <!--
 **Aran8276/Aran8276** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
