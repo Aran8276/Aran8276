@@ -1,4 +1,4 @@
-## Hai Semua 👋
+# Hai Semua 👋
 Perkenalkan nama saya **Zahran Zaidan Nasution**.<br>
 
 Saya seorang **Web Developer** di [SMK Negeri 6 Malang](https://smkn6malang.sch.id/) 💻 🌐<br>
