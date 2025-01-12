@@ -1,7 +1,7 @@
 # Hai Semua 👋
 Perkenalkan nama saya **Zahran Zaidan Nasution**.<br>
 
-Saya seorang **Web Developer** di [SMK Negeri 6 Malang](https://smkn6malang.sch.id/) 💻 🌐<br>
+Saya seorang **Web Developer** di jurusan RPL [SMK Negeri 6 Malang](https://smkn6malang.sch.id/) 💻 🌐<br>
 
 Saya memiliki [YouTube channel](https://www.youtube.com/@Aran8276) untuk belajar ngoding dan konten lain lain ▶️🛠️<br>
 
